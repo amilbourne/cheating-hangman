@@ -26,7 +26,7 @@ Words are drawn from the 100 most common English words, filtered to 4+ letters (
 
 ## Requirements
 
-- Node.js 20.12 or later
+- Node.js 20.12 or later (24 recommended)
 
 ## Install
 
