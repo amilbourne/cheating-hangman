@@ -17,7 +17,7 @@ The UI shows how many possible words the computer is still juggling, making the 
 
 ## Word list
 
-Words are drawn from the 500 most common English words, filtered to 4+ letters (~500 words across lengths 4–8).
+Words are drawn from common English words, filtered to 4+ letters (~1500 words across lengths 4–8).
 
 ## Tech stack
 
