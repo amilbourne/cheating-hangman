@@ -1,5 +1,7 @@
 # Cheating Hangman
 
+**Live site:** https://amilbourne.github.io/cheating-hangman/
+
 A React single-page app implementing a devious variant of the classic hangman game — the computer doesn't actually commit to a word until it's forced to.
 
 ## How it works
